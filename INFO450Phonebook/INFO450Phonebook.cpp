@@ -14,7 +14,6 @@ const int MAXLENGTH = 50;
 void AddEntry(char phoneBook[][MAXPARTS][MAXLENGTH]);
 void DisplayEntry(char phoneBook[][MAXPARTS][MAXLENGTH], int iValue);
 
-
 int main()
 {
 	char phoneList[MAXENTRY][MAXPARTS][MAXLENGTH];
