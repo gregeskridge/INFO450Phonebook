@@ -20,7 +20,7 @@ int main()
 	int i;
 	char answer = 'a';
 
-	for (i = 0; i < MAXENTRY && (answer == 'D' || answer == 'a' || answer == 'D' || answer == 'd'); i++)
+	for (i = 0; i < MAXENTRY && (answer == 'A' || answer == 'a' || answer == 'D' || answer == 'd'); i++)
 	{
 		cout << "--------------------------" << endl;
 		cout << "What would you like to do?" << endl;
